@@ -1,4 +1,5 @@
 # The Java Workshop
+
 [![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Java-Workshop.svg)](https://github.com/PacktWorkshops/The-Java-Workshop/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Java-Workshop.svg)](https://github.com/PacktWorkshops/The-Java-Workshop/network)
 [![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Java-Workshop.svg)](https://github.com/PacktWorkshops/The-Java-Workshop/stargazers)
@@ -27,11 +28,6 @@ You already know you want to learn Java, and a smarter way to learn Java 12 is t
 * Understand how you can keep data secure with cryptography and encryption 
 * Learn how to keep your development process bug-free with unit testing in Java  
 
-## Related Workshops
-If you've found this repository useful, you might want to check out some of our other workshop titles:
-* [The Python Workshop](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop)
-* [The Ruby Workshop](https://courses.packtpub.com/courses/ruby?utm_source=github&utm_medium=repository&utm_campaign=9781838642365&utm_term=Ruby&utm_content=The%20Ruby%20Workshop)
-* [The PHP Workshop](https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop)
 
 
 
